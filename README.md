@@ -10,7 +10,7 @@
 # Teamwork
 - [deja vu - Software Engineering project](https://github.com/IO-Proj)
 - [Graphs and their applications](https://github.com/nerooc/graphs)
-- [Machine Learning - Kaggle CHallenge (Predicting real estates prices)](https://github.com/bartosz-rogowski/ML-kaggle-challenge)
+- [Machine Learning - Kaggle Challenge (Predicting real estates prices)](https://github.com/bartosz-rogowski/ML-kaggle-challenge)
 - [Covid analysis (detection) within computational intelligence](https://github.com/mateuszGorczany/CovidAnalysis)
 - [Led Diode Colours - project with usage of Raspberry Pi and Arduino](https://github.com/bartosz-rogowski/led-diode-colours-project)
 - [Selective Image Desaturation](https://github.com/Excavelty/SelectiveDesaturation)
