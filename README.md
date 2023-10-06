@@ -1,6 +1,6 @@
 # About me
-- :mortar_board: I’m currently studying ***Applied Computer Science*** at *Akademia Górniczo-Hutnicza* (*University of Science and Technology*) in Cracow, Poland (courses leading to a master’s degree).
-- 🌱 I’m currently learning ***Machine Learning*** :mag: and ***Data analysis*** :bar_chart:.
+- :mortar_board: I studied ***Applied Computer Science*** at *Akademia Górniczo-Hutnicza* (*University of Science and Technology*) in Cracow, Poland and I have a master degree in it.
+- 🌱 I’m currently learning ***data analysis*** :bar_chart: and ***data engineering*** :hammer_and_wrench::man_technologist:.
 - :sparkles: Enthusiast of Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="18" height="18" />, numerical methods :chart_with_upwards_trend:, and music :musical_note:.
 - :wrench: Different technologies I use and am familiar with: <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
